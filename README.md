@@ -15,4 +15,4 @@ Plan and schedule events during work day hours (9:00am-5:00pm).
 
 ## Contribution
 * Base code provided
-* Refactoring and script construction by [Sarah Lumsden](https://github.com/slumsd01
+* Refactoring and script construction by [Sarah Lumsden](https://github.com/slumsd01)
